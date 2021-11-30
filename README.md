@@ -1,10 +1,8 @@
 ## ABOUT ME
-- 👋 Hi, I’m @JIHO-WHANG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- #👋 Hi, My name is "JIHO-WHANG"
+- 👀 Studying at Sookmyung Women's Univ, Electronic Engineering.  
+- 🌱 I’m currently learning C,HTML,python 
+- 
 
 ---
 
