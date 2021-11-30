@@ -1,5 +1,5 @@
 ## ABOUT ME
-- #👋 Hi, My name is "JIHO-WHANG"
+- 👋 Hi, My name is "JIHO-WHANG"
 - 👀 Studying at Sookmyung Women's Univ, Electronic Engineering.  
 - 🌱 I’m currently learning C,HTML,python 
 - 
